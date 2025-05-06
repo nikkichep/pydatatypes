@@ -1,0 +1,7 @@
+names=('Nicole','Chep','Tap','Kigen')
+print(names)
+
+marks=[52,39,98,42,76,66,80,38,43]
+marks.append(40)
+marks.sort()
+print(marks)
