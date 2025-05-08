@@ -1,7 +1,5 @@
-names=('Nicole','Chep','Tap','Kigen')
-print(names)
+#Reverse the tuple
 
-marks=[52,39,98,42,76,66,80,38,43]
-marks.append(40)
-marks.sort()
-print(marks)
+tuple1 = (10, 20, 30, 40, 50)
+tuple1 = tuple1[::-1]
+print(tuple1)
