@@ -13,3 +13,10 @@ print(tuple1[1][1])
 
 exam = (50)
 print(exam)
+
+#Write a program to unpack the following tuple into four variables and display each variable.
+
+tuple1 = (10, 20, 30, 40)
+
+one,two,three,four = tuple1
+print(one, two, three, four)
